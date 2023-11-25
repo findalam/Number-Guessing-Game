@@ -1,0 +1,7 @@
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\bin\Debug\guessingGame.exe.config
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\bin\Debug\guessingGame.exe
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\bin\Debug\guessingGame.pdb
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\obj\Debug\guessingGame.csproj.AssemblyReference.cache
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\obj\Debug\guessingGame.csproj.CoreCompileInputs.cache
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\obj\Debug\guessingGame.exe
+C:\Users\shafi.alam\OneDrive - AVEVA Solutions Limited\Desktop\C#\PROJECTS\guessingGame\guessingGame\obj\Debug\guessingGame.pdb
